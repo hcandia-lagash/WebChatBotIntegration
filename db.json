@@ -1,28 +1,11 @@
-[{
-      "TipoVariable":"EntradaTexto",
-      "Label":"Nombre",
-      "EsObligatorio":false,
-      "Orden":1,
-      "Placeholder":"Ingrese su nombre"
-     },
-     {
-       "TipoVariable":"EntradaTexto",
-      "Label":"Dirección",
-      "EsObligatorio":false,
-      "Orden":2,
-      "Placeholder":"Ingrese su dirección"
-     },
-     {
-      "TipoVariable":"Picker",
-      "Label":"Teléfono",
-      "EsObligatorio":false,
-      "Orden":4,
-      "Placeholder":"Ingrese su teléfono"
-     },
-     {
-      "TipoVariable":"Checkbox",
-      "Label":"Campo Check",
-      "EsObligatorio":false,
-      "Orden":5,
-      "Placeholder":null
-     }]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
